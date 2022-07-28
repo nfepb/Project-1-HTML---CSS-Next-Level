@@ -21,6 +21,21 @@ p {
     text-align: center justify;
 }
 
+/* Input button */
+
+input[type=submit] {
+    padding: 15px 15px;
+    background: #1b01a2;
+    color: #ffefe2;
+    border: 0 none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+input[type=submit]:hover {
+    background: #7a2a35;
+}
+
 /* Banner style in header */
 
 #banner-image {
